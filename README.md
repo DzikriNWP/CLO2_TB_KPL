@@ -1,16 +1,7 @@
-# bel_sekolah
+# Tugas besar CLO 2 KPL
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## anggota kelompok :
+1. Dzikri Naufal Wisnu Pravida (2211104063)
+2. Muhammad Rizaldy Akbar (2211104065)
+3. Muhammad Hadziq Subono (2211104079)
+4. Abdul Roni (2211104080)
